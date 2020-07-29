@@ -73,6 +73,7 @@ const config: Configuration = {
    ** See https://nuxtjs.org/api/configuration-build/
    */
   build: {},
+  telemetry: false,
 }
 
 export default config
